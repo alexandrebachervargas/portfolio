@@ -20,6 +20,11 @@ Sou estudante e futuro graduando em Engenharia da Computação, em busca do meu 
 
 ### 🔹 Projeto 1 – Programa simples em Python
 Programa básico para treino de lógica de programação.
+https://github.com/alexandrebachervargas/projeto-python
+
+### 🔹 Projeto 2 – Página HTML simples
+Página pessoal criada para estudo de HTML e CSS.
+https://github.com/alexandrebachervargas/pagina-html/tree/main
 
 ## 📫 Contato
 - Email: alexandrebachervargas@gmail.com
