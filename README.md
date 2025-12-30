@@ -16,5 +16,10 @@ Sou estudante e futuro graduando em Engenharia da Computação, em busca do meu 
 - Informática básica
 - Facilidade para aprender novas tecnologias
 
+## 📂 Projetos
+
+### 🔹 Projeto 1 – Programa simples em Python
+Programa básico para treino de lógica de programação.
+
 ## 📫 Contato
 - Email: alexandrebachervargas@gmail.com
